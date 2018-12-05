@@ -1,0 +1,7 @@
+services:
+  gitdemo:
+    build:
+      context: C:\GitDemo\GitDemo
+      dockerfile: GitDemo/Dockerfile
+    image: gitdemo
+version: '3.4'
