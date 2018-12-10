@@ -1,1 +1,4 @@
-*.suo
+**/*.suo
+**/*.dll
+**/*.pdb
+GitDemo/.vs/
